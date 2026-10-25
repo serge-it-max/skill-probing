@@ -1,5 +1,7 @@
 # Skill probing
 
+![skill-probing: read a skill as code, then test what it does](docs/cover.png)
+
 A [Claude Skill](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)
 for vetting another skill before you trust it: reading its files as code for what it
 could do to your machine, then testing whether its instructions produce the behavior
